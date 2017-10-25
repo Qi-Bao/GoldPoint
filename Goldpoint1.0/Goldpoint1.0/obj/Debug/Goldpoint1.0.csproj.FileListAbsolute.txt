@@ -1,0 +1,11 @@
+F:\vs\Goldpoint1.0\Goldpoint1.0\obj\Debug\Goldpoint1.0.csprojResolveAssemblyReference.cache
+F:\vs\Goldpoint1.0\Goldpoint1.0\obj\Debug\Goldpoint1._0.Properties.Resources.resources
+F:\vs\Goldpoint1.0\Goldpoint1.0\obj\Debug\Goldpoint1.0.csproj.GenerateResource.Cache
+F:\vs\Goldpoint1.0\Goldpoint1.0\obj\Debug\Goldpoint1.0.csproj.CoreCompileInputs.cache
+F:\vs\Goldpoint1.0\Goldpoint1.0\bin\Debug\Goldpoint1.0.exe.config
+F:\vs\Goldpoint1.0\Goldpoint1.0\bin\Debug\Goldpoint1.0.exe
+F:\vs\Goldpoint1.0\Goldpoint1.0\bin\Debug\Goldpoint1.0.pdb
+F:\vs\Goldpoint1.0\Goldpoint1.0\obj\Debug\Goldpoint1.0.exe
+F:\vs\Goldpoint1.0\Goldpoint1.0\obj\Debug\Goldpoint1.0.pdb
+F:\vs\Goldpoint1.0\Goldpoint1.0\obj\Debug\Goldpoint1._0.GoldPoint.resources
+F:\vs\Goldpoint1.0\Goldpoint1.0\obj\Debug\Goldpoint1._0.Resource1.resources
